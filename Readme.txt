@@ -1,4 +1,4 @@
- This is part of IIIT-B and UpGrad PGDDS. The aim of this program was to equip us with the necessary theoretical understanding and industry experience we need to build and grow our career in the field of data analytics. In the repository I have assignment, case study and projects.
+This is part of IIIT-B and UpGrad PGDDS. The aim of this program was to equip us with the necessary theoretical understanding and industry experience we need to build and grow our career in the field of data analytics. In the repository I have assignment, case study and projects.
 
  Course covers these areas under the following seven courses:
 
